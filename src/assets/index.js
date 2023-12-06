@@ -21,7 +21,7 @@ import portfolio2 from "./portfolio2.jpg";
 import portfolio3 from "./portfolio3.jpg";
 import portfolio4 from "./Portfolio4.jpg";
 import portfolio5 from "./Portfolio5.jpg";
-import instagram from "./instagram.png";
+import instagram from "./Instagram.png";
 import Facebook from "./Facebook.png";
 import Twitter from "./Twitter.png";
 import Linkedin from "./Linkedin.png";
