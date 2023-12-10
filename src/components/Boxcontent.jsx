@@ -13,7 +13,7 @@ const Boxcontent = () => {
         variants={fadeIn('bottom', 'tween', 0.2, 1)}
         className="flex-col text-center bg-neutral-800 p-20 rounded-3xl"
       >
-        <h3 className="text-center object-fill text-yellow-400 text-[50px] font-extrabold font-['Monument Extended'] tracking-[3.75px]">
+        <h3 className="text-center object-fill text-yellow-400 text-[2.604vw] font-extrabold font-['Monument Extended'] tracking-[3.75px]">
             In the <span className="text-white">pixels </span>and <span className="text-white">palettes </span>lie the power to move minds and manifest destinies.
         </h3>
         
