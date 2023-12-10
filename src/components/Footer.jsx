@@ -28,11 +28,11 @@ const Footer = () => {
                     </div>
                     
                 </div>
-                <img className="w-[264px] h-[205px]" src={logo2} />
+                <img className="w-[13.750vw] h-[10.677vw]" src={logo2} />
             </div>
         </div>
         
-        <div className=" text-center text-white text-4xl font-normal font-['Futura Lt BT']">© 2023 DUSK. All rights reserved.</div>
+        <div className=" text-center text-white text-[2.5vw] font-normal font-['Futura Lt BT']">© 2023 DUSK. All rights reserved.</div>
     </div>
     
   )

@@ -16,10 +16,11 @@ const ProjectCard = ({
       <div  className=" flex justify-between ">
       
         
-      <div className="mt-5 mb-5 text-stone-300 text-[40px] font-normal font-['Futura Lt BT']">
+      <div className="mt-5 mb-5 text-stone-300 text-[4.16vw] font-normal font-['Futura Lt BT']">
         <h3>{name}</h3>
-        
       </div>
+      
+        
     </div>
     </motion.div>
   );
@@ -30,8 +31,8 @@ const Works = () => {
     <>
       <motion.div  variants={textVariant()}>
         
-        <div className="flex h-30 text-yellow-400 text-[125px] font-extrabold font-['Monument Extended'] ">
-          <h1 className="mr-5 tracking-[-10px]">OUR </h1> <h1 className="tracking-[-10px]">SERVICES </h1>
+        <div className="flex h-30 text-yellow-400 text-[6.510vw] font-extrabold font-['Monument Extended'] ">
+          <h1 className="mr-5">OUR </h1> <h1>SERVICES </h1>
         </div>
       </motion.div>
       <div className="w-full flex">
